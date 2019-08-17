@@ -12,5 +12,5 @@ class Project
   end
 
 
-  
+
 end
